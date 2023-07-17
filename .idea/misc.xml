@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable-anydpi/ic_action_navigation_menu.xml" value="0.173" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable-xxxhdpi/sign_in_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable-xxxhdpi/white_btn.xml" value="0.206" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_black_color_back_24dp.xml" value="0.193" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_blue_color_back_24dp.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_check_blue_24.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_check_white_24.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_delete_24.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/ic_vector_add_24dp_blue.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/rounded_dialog.xml" value="0.2095" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/shape_button_rounded.xml" value="0.121" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_card_details.xml" value="0.2" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_create_board.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_main.xml" value="0.21677957269411152" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_members.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_sign_in.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_sign_up.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_splash.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_task_list.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/add_member.xml" value="0.1" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/app_bar_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/content_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/dialog_list.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/dialog_progress.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_board.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_card.xml" value="0.264" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_card_selected_member.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_label_color.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_members.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/item_task.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/members_list.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/layout/nav_header_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/menu/activity_main_drawer.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/menu/menu_add_members.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/menu/menu_delete_card.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/Trello/app/src/main/res/menu/menu_members.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
