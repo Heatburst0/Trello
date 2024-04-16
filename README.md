@@ -10,13 +10,13 @@ The Project Management App (Trello Clone) is an app-based tool that allows users
 ## Tools and Technologies
 <img align="right" src="https://github.com/Heatburst0/Trello/assets/91200862/a5e6b64b-f7ed-4ac2-88ab-219df8b0f571" width="400" height="400">
 
-How I used them.
+<br />
 
-- Firebase is employed in the project for a cloud database, storage of user and board data and images, notifications via cloud messaging, and email authentication.
+- **Firebase** is employed in the project for a cloud database, storage of user and board data and images, notifications via cloud messaging, and email authentication.
 
-- Android studio is a software developed by jetbrains and google for development and testing of android applications.
-- Kotlin is an object oriented programmin language developed by jetbrains designed specifically for native android development.
--  In Android, the XML is used for designing User Interface and layouts, and it's a lightweight markup language that doesn't make layout heavy.
+- **Android studio** is a software developed by jetbrains and google for development and testing of android applications.
+- **Kotlin** is an object oriented programing language developed by jetbrains designed specifically for native android development.
+-  In Android, the **XML** is used for designing User Interface and layouts, and it's a lightweight markup language that doesn't make layout heavy.
 
 
 <br />
@@ -33,3 +33,9 @@ How I used them.
 <br />
 
 When a user opens the app for the first time, it will encounter an intro screen that will give the user two options: sign in if the user is already registered or sign up to register using their name, email address, and password.
+
+<br />
+
+
+## Home Screen and how to create a board
+
