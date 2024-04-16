@@ -37,5 +37,13 @@ When a user opens the app for the first time, it will encounter an intro screen 
 <br />
 
 
-## Home Screen and how to create a board
+## App drawer and user profile view
+
+<br />
+<img align="left" src="https://github.com/Heatburst0/Trello/assets/91200862/edca7b29-1319-4382-a1ba-45d3855aeb8e" width="420" height="400">
+
+The app's drawer offers users the choice to either sign out and return to the intro screen or access their profile to update personal details, including picture, name, and phone number.
+
+
+
 
