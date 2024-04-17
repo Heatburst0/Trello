@@ -31,6 +31,8 @@ The Project Management App (Trello Clone) is an app-based tool that allows users
 <img src="https://github.com/Heatburst0/Trello/assets/91200862/46428028-e294-4256-8c34-fa8a351a6b03" width="700" height="400">
 <br />
 <br />
+<br />
+<br />
 
 When a user opens the app for the first time, it will encounter an intro screen that will give the user two options: sign in if the user is already registered or sign up to register using their name, email address, and password.
 
@@ -44,6 +46,31 @@ When a user opens the app for the first time, it will encounter an intro screen 
 
 The app's drawer offers users the choice to either sign out and return to the intro screen or access their profile to update personal details, including picture, name, and phone number.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+## Home screen and how to create a board
 
+<br />
+<img align="right" src="https://github.com/Heatburst0/Trello/assets/91200862/35de2357-6c78-4820-a694-22573862a660" width="420" height="400">
+
+After signing in to the app, users will be directed to the home screen of the app, where they can access boards that they have created or been assigned to.
+<br />
+<br />
+Users can create boards by clicking on the add/plus button located at the bottom-right of the home screen.
+<br />
+<br />
+Only name and a board image are required to create a board.
 
