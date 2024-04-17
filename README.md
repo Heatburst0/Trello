@@ -73,4 +73,33 @@ Users can create boards by clicking on the add/plus button located at the bottom
 <br />
 <br />
 Only name and a board image are required to create a board.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Create Tasks and assign members to the board
+
+<div align="center">
+  <video src="https://github.com/Heatburst0/Trello/assets/91200862/d536f4f5-2f7a-4a21-a469-6f26ae836ad1" width="100"/>
+</div>
+<br />
+After creating a board, users can create task lists on the board by clicking the add list button and specifying the name of the task list. Users can also change the name of the task list or delete a task list.
+<br />
+<br />
+
+Furthermore users can also assign multiple users to that board using their email-id as shown in the above video.
+
+
+
+
+
+
 
