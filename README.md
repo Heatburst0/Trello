@@ -95,7 +95,22 @@ After creating a board, users can create task lists on the board by clicking the
 <br />
 <br />
 
-Furthermore users can also assign multiple users to that board using their email-id as shown in the above video.
+Users can assign multiple people to a board by entering their email addresses. Those added to the board will receive a notification on their phone about it.
+<br />
+<br />
+## Add and customise cards in the task list
+
+
+<div align="center">
+  <video src="https://github.com/Heatburst0/Trello/assets/91200862/1ad2303f-e375-458e-abaf-228956a3244f" width="100"/>
+</div>
+<br />
+
+Once you've made a task list, you can put cards on it to represent different kinds of work. These cards are customisable - you can change their color labels, assign them to specific board members, set deadlines, and even move them around within the list. It's a flexible way to organise and manage your tasks effectively.
+
+
+
+
 
 
 
