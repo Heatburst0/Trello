@@ -18,7 +18,7 @@ The Project Management App (Trello Clone) is an app-based tool that allows users
 - **Kotlin** is an object oriented programing language developed by jetbrains designed specifically for native android development.
 -  In Android, the **XML** is used for designing User Interface and layouts, and it's a lightweight markup language that doesn't make layout heavy.
 
-
+<br />
 
 
 ## When you open the app for the first time
