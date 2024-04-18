@@ -26,8 +26,6 @@ The Project Management App (Trello Clone) is an app-based tool that allows users
 <img src="https://github.com/Heatburst0/Trello/assets/91200862/46428028-e294-4256-8c34-fa8a351a6b03" width="700" height="400">
 <br />
 <br />
-<br />
-<br />
 
 When a user opens the app for the first time, it will encounter an intro screen that will give the user two options: sign in if the user is already registered or sign up to register using their name, email address, and password.
 
